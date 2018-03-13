@@ -1,7 +1,6 @@
-# Cria-o-de-site-responsivos-usando-Bootstrap-4-com-Sass
+# Desenvolvimento de site totalmente responsivos utilizando Bootstrap v 4.0 com Sass 
 
 Desenvolvimento de sites usando Bootstrap- v4.0.0 com Sass
-Desenvolvimento de site totalmente responsivos utilizando Bootstrap 4.0 com Sass 
 
 -----------------------------
 
@@ -32,4 +31,5 @@ STARTED PROJECT: 27 february, 2018.
 FINISHED DATE:
 
 Author: IDELFRIDES JORGE |
+
 Mail me by idelfridesjorge@alu.ufc.br
