@@ -28,7 +28,7 @@ The main layout is located in file index.html:
 
 STARTED PROJECT: 27 february, 2018.
 
-FINISHED DATE:
+FINISHED DATE: 13 march, 2018
 
 Author: IDELFRIDES JORGE |
 
