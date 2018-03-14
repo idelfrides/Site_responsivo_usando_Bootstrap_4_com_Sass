@@ -26,6 +26,8 @@ There are three way to use bootstrap 4.0.0 on an web site. This project use the 
 
 The main layout is located in file index.html:
 
+-----------
+
 STARTED PROJECT: 27 february, 2018.
 
 FINISHED DATE: 13 march, 2018
