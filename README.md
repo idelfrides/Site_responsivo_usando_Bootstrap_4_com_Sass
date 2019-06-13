@@ -1,4 +1,4 @@
-# Criao de site responsivos usando Bootstrap-4 com Sass
+# Criação de site responsivos usando Bootstrap-4 com Sass
 
 Desenvolvimento de sites usando Bootstrap- v4.0.0 com Sass
 
